@@ -1,0 +1,46 @@
+_repo: One-hundred-years-with-the-Baptists-of-Amherst-NS-1810-to-1910-b-A-brief-summary-of-the-cente__75713
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Steele, D. A. (David Allen)
+    alias: Steele, David Allen
+    birthdate: 1838
+    deathdate: 1931
+    gutenberg_agent_id: '58113'
+    url: http://www.gutenberg.org/2009/agents/58113
+  - agent_name: Rogers, Grace McLeod
+    aliases:
+    - Rogers, Grace Dean McLeod
+    - McLeod, Grace Dean
+    - Rogers, G. M.
+    birthdate: 1865
+    deathdate: 1958
+    gutenberg_agent_id: '58114'
+    url: http://www.gutenberg.org/2009/agents/58114
+    wikipedia: https://en.wikipedia.org/wiki/Grace_Dean_Rogers
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75713'
+language: en
+pgterms:marc904: https://archive.org/details/onehundredyearsw00steeuoft/page/n5/mode/2up
+pgterms:marc905: 20230418105811steele
+pgterms:marc906: '1911'
+pgterms:marc907: CA
+production_note: George A. Rawlyk Library, Crandall University, produced from scans
+  generously made available by the Internet Archive.
+publication_note: '  $aAmherst :$bAmherst, N.S. : [s.n.], $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amherst Baptist Church (N.S.) -- Centennial celebrations, etc.'
+- !lcsh 'Baptists -- Nova Scotia -- Amherst'
+- !lcsh 'Amherst (N.S.) -- Church history'
+- !lcc 'BX'
+- GITenberg
+title: 'One hundred years with the Baptists of Amherst, N.S., 1810 to 1910 : $b A
+  brief summary of the centenary proceedings of the First Baptist Church, Amherst,
+  N.S.'
+url: http://www.gutenberg.org/ebooks/75713
