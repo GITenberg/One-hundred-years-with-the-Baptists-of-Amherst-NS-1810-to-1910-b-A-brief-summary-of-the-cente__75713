@@ -1,5 +1,8 @@
 _repo: One-hundred-years-with-the-Baptists-of-Amherst-NS-1810-to-1910-b-A-brief-summary-of-the-cente__75713
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Steele, D. A. (David Allen)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58114
     wikipedia: https://en.wikipedia.org/wiki/Grace_Dean_Rogers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75713#One-hundred-years-with-the-Baptists-of-Amherst-NS-1810-to-1910-b-A-brief-summary-of-the-cente_
 gutenberg_issued: '2025-03-25'
 gutenberg_type: Text
 identifiers:
